@@ -379,12 +379,41 @@ const Rest = () => {
                         <div className="px-2 py-2 bg-gray-700 rounded-r flex items-center h-10">
                             <button className="h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white">
                                 <svg
+                                    aria-hidden="true"
+                                    focusable="false"
+                                    data-prefix="fas"
+                                    data-icon="paper-plane"
+                                    className="w-4 h-4 svg-inline--fa fa-paper-plane fa-w-16"
+                                    role="img"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    viewBox="0 0 512 512"
+                                >
+                                    <path
+                                        fill="currentColor"
+                                        d="M476 3.2L12.5 270.6c-18.1 10.4-15.8 35.6 2.2 43.2L121 358.4l287.3-253.2c5.5-4.9 13.3 2.6 8.6 8.3L176 407v80.5c0 23.6 28.5 32.9 42.5 15.8L282 426l124.6 52.2c14.2 6 30.4-2.9 33-18.2l72-432C515 7.8 493.3-6.8 476 3.2z"
+                                    ></path>
+                                </svg>
+                                {/* <svg
+                                    className="w-6 h-6"
+                                    viewBox="0 0 358 318"
+                                    fill="none"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                >
+                                    <path
+                                        fill-rule="evenodd"
+                                        clip-rule="evenodd"
+                                        d="M358 159L0 0L34 136L159 159L34 182L0 318L358 159Z"
+                                        fill="black"
+                                    />
+                                </svg> */}
+
+                                {/* <svg
                                     className="w-6 h-6"
                                     fill="currentColor"
                                     viewBox="0 0 512 512"
                                 >
                                     <path d="M32 448c0 17.7 14.3 32 32 32h160V320H32v128zm448-288h-42.1c6.2-12.1 10.1-25.5 10.1-40 0-48.5-39.5-88-88-88-41.6 0-68.5 21.3-103 68.3-34.5-47-61.4-68.3-103-68.3-48.5 0-88 39.5-88 88 0 14.5 3.8 27.9 10.1 40H32c-17.7 0-32 14.3-32 32v80c0 8.8 7.2 16 16 16h480c8.8 0 16-7.2 16-16v-80c0-17.7-14.3-32-32-32zm-326.1 0c-22.1 0-40-17.9-40-40s17.9-40 40-40c19.9 0 34.6 3.3 86.1 80h-86.1zm206.1 0h-86.1c51.4-76.5 65.7-80 86.1-80 22.1 0 40 17.9 40 40s-17.9 40-40 40zm-72 320h160c17.7 0 32-14.3 32-32V320H288v160z"></path>
-                                </svg>
+                                </svg> */}
                             </button>
                             <button className="h-10 bg-gray-700 rounded-l text-gray-500 hover:text-white ml-3">
                                 <svg
