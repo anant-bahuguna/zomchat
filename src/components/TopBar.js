@@ -4,7 +4,7 @@ const TopBar = () => {
     return (
         <div className="flex text-white h-12">
             <div className="bg-gray-800 w-56 flex-none flex items-center justify-between border-b border-gray-900 px-3 py-2">
-                <div>Tailwind CSS</div>
+                <div>ZOMCHAT</div>
                 <button>
                     {" "}
                     <svg
