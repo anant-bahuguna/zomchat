@@ -83,7 +83,7 @@ const UsersSidebar = () => {
                     </a>
                     <div className="text-xs ml-2">
                         <div className="text-white">johndoe</div>
-                        <div className="text-gray-500 text-xxs">#9898</div>
+                        <div className="text-gray-500 text-xxs">View Profile</div>
                     </div>
                 </div>
                 <div className="flex items-center text-gray-500">

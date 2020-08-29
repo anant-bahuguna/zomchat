@@ -17,8 +17,11 @@ module.exports = {
                 "gray-850": "#222733",
             },
             fontSize: {
-                xxs: "0.5rem",    
-            }
+                xxs: "0.5rem",
+            },
+            fontWeight: {
+                chat: 525,
+            },
         },
         colors: {
             transparent: "transparent",

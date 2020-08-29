@@ -10275,6 +10275,10 @@ video {
   font-weight: 900;
 }
 
+.font-chat {
+  font-weight: 525;
+}
+
 .hover\:font-hairline:hover {
   font-weight: 100;
 }
@@ -10311,6 +10315,10 @@ video {
   font-weight: 900;
 }
 
+.hover\:font-chat:hover {
+  font-weight: 525;
+}
+
 .focus\:font-hairline:focus {
   font-weight: 100;
 }
@@ -10345,6 +10353,10 @@ video {
 
 .focus\:font-black:focus {
   font-weight: 900;
+}
+
+.focus\:font-chat:focus {
+  font-weight: 525;
 }
 
 .h-0 {
@@ -28574,6 +28586,10 @@ video {
     font-weight: 900;
   }
 
+  .sm\:font-chat {
+    font-weight: 525;
+  }
+
   .sm\:hover\:font-hairline:hover {
     font-weight: 100;
   }
@@ -28610,6 +28626,10 @@ video {
     font-weight: 900;
   }
 
+  .sm\:hover\:font-chat:hover {
+    font-weight: 525;
+  }
+
   .sm\:focus\:font-hairline:focus {
     font-weight: 100;
   }
@@ -28644,6 +28664,10 @@ video {
 
   .sm\:focus\:font-black:focus {
     font-weight: 900;
+  }
+
+  .sm\:focus\:font-chat:focus {
+    font-weight: 525;
   }
 
   .sm\:h-0 {
@@ -46843,6 +46867,10 @@ video {
     font-weight: 900;
   }
 
+  .md\:font-chat {
+    font-weight: 525;
+  }
+
   .md\:hover\:font-hairline:hover {
     font-weight: 100;
   }
@@ -46879,6 +46907,10 @@ video {
     font-weight: 900;
   }
 
+  .md\:hover\:font-chat:hover {
+    font-weight: 525;
+  }
+
   .md\:focus\:font-hairline:focus {
     font-weight: 100;
   }
@@ -46913,6 +46945,10 @@ video {
 
   .md\:focus\:font-black:focus {
     font-weight: 900;
+  }
+
+  .md\:focus\:font-chat:focus {
+    font-weight: 525;
   }
 
   .md\:h-0 {
@@ -65112,6 +65148,10 @@ video {
     font-weight: 900;
   }
 
+  .lg\:font-chat {
+    font-weight: 525;
+  }
+
   .lg\:hover\:font-hairline:hover {
     font-weight: 100;
   }
@@ -65148,6 +65188,10 @@ video {
     font-weight: 900;
   }
 
+  .lg\:hover\:font-chat:hover {
+    font-weight: 525;
+  }
+
   .lg\:focus\:font-hairline:focus {
     font-weight: 100;
   }
@@ -65182,6 +65226,10 @@ video {
 
   .lg\:focus\:font-black:focus {
     font-weight: 900;
+  }
+
+  .lg\:focus\:font-chat:focus {
+    font-weight: 525;
   }
 
   .lg\:h-0 {
@@ -83381,6 +83429,10 @@ video {
     font-weight: 900;
   }
 
+  .xl\:font-chat {
+    font-weight: 525;
+  }
+
   .xl\:hover\:font-hairline:hover {
     font-weight: 100;
   }
@@ -83417,6 +83469,10 @@ video {
     font-weight: 900;
   }
 
+  .xl\:hover\:font-chat:hover {
+    font-weight: 525;
+  }
+
   .xl\:focus\:font-hairline:focus {
     font-weight: 100;
   }
@@ -83451,6 +83507,10 @@ video {
 
   .xl\:focus\:font-black:focus {
     font-weight: 900;
+  }
+
+  .xl\:focus\:font-chat:focus {
+    font-weight: 525;
   }
 
   .xl\:h-0 {
