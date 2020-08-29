@@ -1,9 +1,12 @@
 import React from "react";
+import BasicLayout from "./components/BasicLayout";
+import IconSidebar from './components/IconSidebar'
 
 function App() {
     return (
-        <div className="bg-gray-300">
-            <h1>APP</h1>
+        <div className="flex">
+            <IconSidebar />
+            <BasicLayout />
         </div>
     );
 }
