@@ -5,7 +5,7 @@ import IconSidebar from './components/IconSidebar'
 function App() {
     return (
         <div className="flex">
-            <IconSidebar />
+            {/* <IconSidebar /> */}
             <BasicLayout />
         </div>
     );
