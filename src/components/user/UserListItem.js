@@ -8,9 +8,9 @@ const UserListItem = ({ selected }) => {
                 <div>
                     <UserImage />
                 </div>
-                <div class="text-sm ml-3">
-                    <p class="text-gray-200 leading-none">Jonathan Reinink</p>
-                    <p class="text-gray-600">Aug 18</p>
+                <div className="text-sm ml-3">
+                    <p className="text-gray-200 leading-none">Jonathan Reinink</p>
+                    <p className="text-gray-600">Aug 18</p>
                 </div>
             </a>
         </li>
