@@ -1,9 +1,13 @@
 import React from "react";
+import SearchBox from "./SearchBox";
 
 const UsersSidebar = () => {
     return (
         <div className="bg-gray-800 w-56 flex-none  flex flex-col justify-between">
             <div className="overflow-y-auto">
+            {/* <ul className="px-2 py-3"> */}
+                <SearchBox />
+                {/* </ul> */}
                 <ul className="px-2 py-3">
                     <li className="text-gray-500 px-2 py-2 hover:text-gray-200 hover:bg-gray-900 bg-gray-750 rounded">
                         <a href="#" className="flex items-center">

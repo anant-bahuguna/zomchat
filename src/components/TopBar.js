@@ -1,10 +1,11 @@
 import React from "react";
+import SearchBox from "./SearchBox";
 
 const TopBar = () => {
     return (
         <div className="flex text-white h-12">
             <div className="bg-gray-800 w-56 flex-none flex items-center justify-between border-b border-gray-900 px-3 py-2">
-                <div>ZOMCHAT</div>
+                <div className='font-bold'>ZOMCHAT</div>
                 <button>
                     {" "}
                     <svg
@@ -70,31 +71,19 @@ const TopBar = () => {
                         </svg>
                     </a>
                     <a href="#" className="ml-4">
-                        <form className="relative">
-                            <input
-                                type="text"
-                                placeholder="Search"
-                                className="rounded bg-gray-900 text-gray-200 text-s px-2 py-1"
-                            />
-                            <span
-                                className="absolute right-0 top-0 mr-1"
-                                style={{ top: "6px" }}
-                            >
-                                {" "}
-                                <svg
-                                    class="w-4 h-4 text-gray-500 hover:text-gray-200"
-                                    fill="currentColor"
-                                    viewBox="0 0 24 24"
-                                    width="24"
-                                    height="24"
-                                >
-                                    <path
-                                        class="heroicon-ui"
-                                        d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
-                                    ></path>
-                                </svg>
-                            </span>
-                        </form>
+                        {/* <SearchBox /> */}
+                        <svg
+                            class="w-6 h-6 text-gray-500 hover:text-gray-200"
+                            fill="currentColor"
+                            viewBox="0 0 24 24"
+                            width="24"
+                            height="24"
+                        >
+                            <path
+                                class="heroicon-ui"
+                                d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
+                            ></path>
+                        </svg>
                     </a>
                     <a href="#" className="ml-4">
                         <svg

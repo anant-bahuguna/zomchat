@@ -50,13 +50,7 @@ const ChatSection = () => {
                                 </div> */}
                                 <div>
                                     <div>
-                                        Here are the{" "}
-                                        <a
-                                            href="#"
-                                            className="text-blue-400 hover:underline"
-                                        >
-                                            Tailwind docs
-                                        </a>
+                                        Here are the Tailwind docs
                                     </div>
                                 </div>
                             </div>
