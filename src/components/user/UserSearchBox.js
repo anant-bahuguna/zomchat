@@ -1,6 +1,6 @@
 import React from "react";
 
-const SearchBox = () => {
+const UserSearchBox = () => {
     return (
         <form className="relative px-2 py-3">
             <input
@@ -9,7 +9,7 @@ const SearchBox = () => {
                 className="rounded bg-gray-900 text-gray-200 text-s px-2 py-1 w-full"
             />
             <span
-                className="absolute right-0 top-0 mr-3"
+                className="absolute right-0 top-0 mr-4"
                 style={{ top: "18px" }}
             >
                 {" "}
@@ -30,4 +30,4 @@ const SearchBox = () => {
     );
 };
 
-export default SearchBox;
+export default UserSearchBox;

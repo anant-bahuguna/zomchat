@@ -1,10 +1,9 @@
 import React from "react";
-import BasicLayout from "./components/BasicLayout";
-import IconSidebar from './components/IconSidebar'
+import { BasicLayout } from "./components/layout";
 
 function App() {
     return (
-        <div className="flex">
+        <div className="flex" >
             {/* <IconSidebar /> */}
             <BasicLayout />
         </div>
