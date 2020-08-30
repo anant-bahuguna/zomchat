@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/zomchat/static/css/main.faea3a27.chunk.css",
-    "main.js": "/zomchat/static/js/main.eb7c398c.chunk.js",
-    "main.js.map": "/zomchat/static/js/main.eb7c398c.chunk.js.map",
+    "main.js": "/zomchat/static/js/main.b3ac749c.chunk.js",
+    "main.js.map": "/zomchat/static/js/main.b3ac749c.chunk.js.map",
     "runtime-main.js": "/zomchat/static/js/runtime-main.3018b145.js",
     "runtime-main.js.map": "/zomchat/static/js/runtime-main.3018b145.js.map",
     "static/js/2.a59a65ab.chunk.js": "/zomchat/static/js/2.a59a65ab.chunk.js",
     "static/js/2.a59a65ab.chunk.js.map": "/zomchat/static/js/2.a59a65ab.chunk.js.map",
     "index.html": "/zomchat/index.html",
-    "precache-manifest.13493615086881d76927277b685ef270.js": "/zomchat/precache-manifest.13493615086881d76927277b685ef270.js",
+    "precache-manifest.ec82e26591aefa65c03d1c75c1efbd1d.js": "/zomchat/precache-manifest.ec82e26591aefa65c03d1c75c1efbd1d.js",
     "service-worker.js": "/zomchat/service-worker.js",
     "static/css/main.faea3a27.chunk.css.map": "/zomchat/static/css/main.faea3a27.chunk.css.map",
     "static/js/2.a59a65ab.chunk.js.LICENSE.txt": "/zomchat/static/js/2.a59a65ab.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3018b145.js",
     "static/js/2.a59a65ab.chunk.js",
     "static/css/main.faea3a27.chunk.css",
-    "static/js/main.eb7c398c.chunk.js"
+    "static/js/main.b3ac749c.chunk.js"
   ]
 }

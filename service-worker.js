@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/zomchat/precache-manifest.13493615086881d76927277b685ef270.js"
+  "/zomchat/precache-manifest.ec82e26591aefa65c03d1c75c1efbd1d.js"
 );
 
 self.addEventListener('message', (event) => {

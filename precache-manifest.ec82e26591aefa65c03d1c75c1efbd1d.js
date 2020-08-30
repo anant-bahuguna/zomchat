@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "defa3862205c7276f5c18c7ce848ea17",
+    "revision": "d96e4ef053aef423b9c2d76745101b2d",
     "url": "/zomchat/index.html"
   },
   {
-    "revision": "d1d2c0f1cbbb09cf277b",
+    "revision": "1c5c204fe4b01d6666e4",
     "url": "/zomchat/static/css/main.faea3a27.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/zomchat/static/js/2.a59a65ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1d2c0f1cbbb09cf277b",
-    "url": "/zomchat/static/js/main.eb7c398c.chunk.js"
+    "revision": "1c5c204fe4b01d6666e4",
+    "url": "/zomchat/static/js/main.b3ac749c.chunk.js"
   },
   {
     "revision": "346a359b07a17e921823",
