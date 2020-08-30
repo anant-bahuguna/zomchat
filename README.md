@@ -1,7 +1,7 @@
 # ZomChat
 A chatting app UI made using tailwindcss, react and redux
 
-## UI Demo - [ZomChat](https://zomchat-nextjs.vercel.app/)
+## UI Demo - [ZomChat](https://zomchat-nextjs.vercel.app/) (NextJs version)
 
 ![Demo](zomchat.gif)
 
