@@ -4,7 +4,7 @@ import UserImage from "./UserImage";
 const UserListItem = ({ selected }) => {
     return (
         <li className={`text-gray-500 px-2 py-2 hover:text-gray-200 hover:bg-gray-900 ${selected && 'bg-gray-750 rounded'}`}>
-            <a href="#" className="flex items-center">
+            <a href="# " className="flex items-center">
                 <div>
                     <UserImage />
                 </div>

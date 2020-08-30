@@ -1,5 +1,5 @@
 import React from "react";
-import { UserImage, UserModal } from "../user";
+import { UserModal } from "../user";
 
 const TopBar = () => {
     return (
@@ -23,7 +23,7 @@ const TopBar = () => {
             </div>
             <div className="bg-gray-750 flex-1 flex items-center justify-between border-b border-gray-900 px-4">
                 <div className="flex items-center">
-                    {/* <div className="text-gray-500 text-2xl">#</div>
+                    {/* <div className="text-gray-500 text-2xl"># </div>
                     <div className="ml-2 text-sm text-white">general</div> */}
                     {/* <UserImage /> */}
                     <UserModal />
@@ -33,7 +33,7 @@ const TopBar = () => {
                 </div>
 
                 <div className="flex items-center">
-                    <a href="#" className="ml-4">
+                    <a href="# " className="ml-4">
                         <svg
                             aria-hidden="true"
                             focusable="false"
@@ -50,7 +50,7 @@ const TopBar = () => {
                             ></path>
                         </svg>
                     </a>
-                    <a href="#" className="ml-4">
+                    <a href="# " className="ml-4">
                         <svg
                             aria-hidden="true"
                             focusable="false"
@@ -67,7 +67,7 @@ const TopBar = () => {
                             ></path>
                         </svg>
                     </a>
-                    <a href="#" className="ml-4">
+                    <a href="# " className="ml-4">
                         {/* <SearchBox /> */}
                         {/* <svg
                             class="w-6 h-6 text-gray-500 hover:text-gray-200"

@@ -8,7 +8,7 @@ const ChatSection = () => {
             <div className="text-sm text-gray-400 overflow-y-auto">
                 <div className="flex mx-6 my-3 py-4  border-t border-gray-700">
                     <div className="flex-none ">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -19,7 +19,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -37,7 +37,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex flex-row-reverse mx-6 my-3 py-4  border-t border-gray-700">
                     <div className="flex-none ml-5">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -48,7 +48,7 @@ const ChatSection = () => {
                     <div className=" px-4 py-2 bg-gradient-to-r from-red-500 to-red-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -65,7 +65,7 @@ const ChatSection = () => {
 
                 <div className="flex mx-6 my-3 py-4 border-t border-gray-700">
                     <div className="flex-none">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -76,7 +76,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -95,7 +95,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex mx-6 my-3 py-4 border-t border-gray-700">
                     <div className="flex-none">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -106,7 +106,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -125,7 +125,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex flex-row-reverse mx-6 my-3 py-4  border-t border-gray-700">
                     <div className="flex-none ml-5">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -136,7 +136,7 @@ const ChatSection = () => {
                     <div className=" px-4 py-2 bg-gradient-to-r from-red-500 to-red-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -155,7 +155,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex mx-6 my-3 py-4 border-t border-gray-700">
                     <div className="flex-none">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -166,7 +166,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -182,7 +182,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex mx-6 my-3 py-4 border-t border-gray-700">
                     <div className="flex-none">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -193,7 +193,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
@@ -213,7 +213,7 @@ const ChatSection = () => {
                 </div>
                 <div className="flex mx-6 my-3 py-4 border-t border-gray-700">
                     <div className="flex-none">
-                        <a href="#">
+                        <a href="# ">
                             <img
                                 src={require("../../assets/dp1.jpg")}
                                 alt="avatar"
@@ -224,7 +224,7 @@ const ChatSection = () => {
                     <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                         {/* <div>
                                 <a
-                                    href="#"
+                                    href="# "
                                     className="text-white hover:underline"
                                 >
                                     johndoe
