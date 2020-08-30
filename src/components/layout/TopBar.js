@@ -27,7 +27,7 @@ const TopBar = () => {
                     <div className="ml-2 text-sm text-white">general</div> */}
                     {/* <UserImage /> */}
                     <UserModal />
-                    <div className="border-l pl-3 ml-3 border-gray-600 text-sm text-gray-400">
+                    <div className="border-l pl-3 ml-3 border-gray-600 text-sm text-gray-400 hidden md:inline-block">
                         Johny Doe
                     </div>
                 </div>
