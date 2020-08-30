@@ -5,7 +5,7 @@ const ChatSection = () => {
         // <div className=" flex-1 flex justify-between">
             <div className="bg-gray-750 flex-1 flex flex-col justify-between font-chat text-gray-200">
                 <div className="text-sm text-gray-400 overflow-y-auto">
-                    <div className="flex mx-6 my-3 py-4 border-t border-gray-700 ">
+                    <div className="flex mx-6 my-3 py-4  border-t border-gray-700">
                         <div className="flex-none ">
                             <a href="#">
                                 <img
@@ -15,7 +15,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"
@@ -36,7 +36,7 @@ const ChatSection = () => {
                     </div>
                     <div className="flex flex-row-reverse border-t border-gray-700 ">
                         <div className="flex mx-6 my-3 py-4">
-                            <div className="flex-none text-right px-4 py-2 bg-gradient-to-r from-red-400 to-red-500 rounded">
+                            <div className="flex-none text-right px-4 py-2 bg-gradient-to-r from-red-500 to-red-600 rounded">
                                 {/* <div>
                                     <a
                                         href="#"
@@ -76,7 +76,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"
@@ -106,7 +106,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"
@@ -128,7 +128,7 @@ const ChatSection = () => {
                     </div>
                     <div className="flex flex-row-reverse border-t border-gray-700">
                         <div className="flex  mx-6 my-3 py-4 ">
-                            <div className="flex-none text-right px-4 py-2 bg-gradient-to-r from-red-400 to-red-500 rounded">
+                            <div className="flex-none text-right px-4 py-2 bg-gradient-to-r from-red-500 to-red-600 rounded">
                                 {/* <div>
                                     <a
                                         href="#"
@@ -168,7 +168,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"
@@ -182,13 +182,7 @@ const ChatSection = () => {
                             </div> */}
                             <div>
                                 <div>
-                                    Exactly the same way as in Vue{" "}
-                                    <a
-                                        href="#"
-                                        className="text-indigo-400 hover:underline"
-                                    >
-                                        @impulse
-                                    </a>
+                                    Exactly the same way as in Vue impulse
                                 </div>
                             </div>
                         </div>
@@ -203,7 +197,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"
@@ -234,7 +228,7 @@ const ChatSection = () => {
                                 />
                             </a>
                         </div>
-                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-teal-500 to-blue-600 rounded">
+                        <div className="ml-5 px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 rounded">
                             {/* <div>
                                 <a
                                     href="#"

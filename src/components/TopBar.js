@@ -1,5 +1,5 @@
 import React from "react";
-import SearchBox from "./SearchBox";
+import UserImage from './UserImage'
 
 const TopBar = () => {
     return (
@@ -23,10 +23,11 @@ const TopBar = () => {
             </div>
             <div className="bg-gray-750 flex-1 flex items-center justify-between border-b border-gray-900 px-4">
                 <div className="flex items-center">
-                    <div className="text-gray-500 text-2xl">#</div>
-                    <div className="ml-2 text-sm text-white">general</div>
+                    {/* <div className="text-gray-500 text-2xl">#</div>
+                    <div className="ml-2 text-sm text-white">general</div> */}
+                    <UserImage />
                     <div className="border-l pl-3 ml-3 border-gray-600 text-sm text-gray-400">
-                        general discussion of Tailwind CSS
+                        Johny Doe
                     </div>
                 </div>
 
@@ -83,39 +84,6 @@ const TopBar = () => {
                                 class="heroicon-ui"
                                 d="M16.32 14.9l5.39 5.4a1 1 0 0 1-1.42 1.4l-5.38-5.38a8 8 0 1 1 1.41-1.41zM10 16a6 6 0 1 0 0-12 6 6 0 0 0 0 12z"
                             ></path>
-                        </svg>
-                    </a>
-                    <a href="#" className="ml-4">
-                        <svg
-                            className="w-6 h-6 text-gray-500 hover:text-gray-200"
-                            fill="currentColor"
-                            viewBox="0 0 24 24"
-                            width="24"
-                            height="24"
-                        >
-                            <path
-                                className="heroicon-ui"
-                                d="M15.6 15.47A4.99 4.99 0 0 1 7 12a5 5 0 0 1 10 0v1.5a1.5 1.5 0 1 0 3 0V12a8 8 0 1 0-4.94 7.4 1 1 0 1 1 .77 1.84A10 10 0 1 1 22 12v1.5a3.5 3.5 0 0 1-6.4 1.97zM12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"
-                            ></path>
-                        </svg>
-                    </a>
-                    <a href="#" className="ml-4">
-                        <svg
-                            className="w-6 h-6 text-gray-500 hover:text-gray-200"
-                            fill="currentColor"
-                            viewBox="0 0 24 24"
-                        >
-                            <g data-name="Layer 2">
-                                <g data-name="menu-arrow-circle">
-                                    <rect
-                                        width="24"
-                                        height="24"
-                                        transform="rotate(180 12 12)"
-                                        opacity="0"
-                                    ></rect>
-                                    <path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2zm0 16a1 1 0 1 1 1-1 1 1 0 0 1-1 1zm1-5.16V14a1 1 0 0 1-2 0v-2a1 1 0 0 1 1-1 1.5 1.5 0 1 0-1.5-1.5 1 1 0 0 1-2 0 3.5 3.5 0 1 1 4.5 3.34z"></path>
-                                </g>
-                            </g>
                         </svg>
                     </a>
                 </div>
