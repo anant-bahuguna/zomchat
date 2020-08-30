@@ -1,3 +1,5 @@
+## New Version !!! [ZomChat-Next](https://github.com/anant-bahuguna/zomchat-nextjs)
+
 # ZomChat
 A chatting app UI made using tailwindcss, react and redux
 
